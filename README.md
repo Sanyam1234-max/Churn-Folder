@@ -29,7 +29,7 @@ The dataset contains customer information such as demographics, account details,
 - Python 3.x
 - pandas, numpy
 - scikit-learn
-- xgboost
+- randomboostclassifier
 - matplotlib, seaborn
 - Streamlit
 - joblib (for model persistence)
